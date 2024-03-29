@@ -1,13 +1,13 @@
-package com.cts.srbdd;
+package com.cts.swbtd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRestapiDataBootDemoApplication {
+public class SpringWebmvcBootThymeleafDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringRestapiDataBootDemoApplication.class, args);
+		SpringApplication.run(SpringWebmvcBootThymeleafDemoApplication.class, args);
 	}
 
 }

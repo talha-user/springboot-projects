@@ -1,10 +1,10 @@
-package com.cts.srbdd;
+package com.cts.swbtd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringRestapiDataBootDemoApplicationTests {
+class SpringWebmvcBootThymeleafDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
